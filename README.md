@@ -21,4 +21,4 @@
 ##
 **Download now Map CollabServer 1.19.10**
 **File size 780.8 MB**
-![](https://drive.google.com/file/d/1GWXlllOmii6OFKTKxKBZf5UWuFPMenM7/view?usp=sharing)
+[Map](https://drive.google.com/file/d/1GWXlllOmii6OFKTKxKBZf5UWuFPMenM7/view?usp=sharing)
