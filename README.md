@@ -16,7 +16,7 @@
 - แมพมายคราฟเวอร์ชั่นนี้ รองรับ 1.19.10 ขึ้นไป
 - ไม่สามรถเล่นกับ เวอร์ชั่นต่ำกว่านี้ได้
 - สามารถเข้าร่วม Discord เพื่อรับข่าวสาร Collab Sever ได้
-[Discord Collab Server](https://discord.io/ColabServer)
+- [Discord Collab Server](https://discord.io/ColabServer)
 ##
 
 - แมพนี้ไม่ใช้เล่นอยู่แค่ทีมเดี่ยว เราเอาเหล่า 
