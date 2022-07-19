@@ -1,5 +1,11 @@
 # CollabEnding 
-![](https://cdn.discordapp.com/attachments/932161944209743892/938377375153000488/SpritecraftOutput.png)
+![](https://cdn.discordapp.com/attachments/908552614919176223/998932345522499694/3.png)
 **Collab Sever - It's a gathering of Minecraft teams.**
-![](https://cdn.discordapp.com/attachments/919481285922144277/998928807195066468/e20285d3151ffdbc.png)
 
+![](https://cdn.discordapp.com/attachments/908552614919176223/998932346617204777/1.png)
+
+![](https://cdn.discordapp.com/attachments/908552614919176223/998932347284095016/2.png)
+
+![](https://cdn.discordapp.com/attachments/908552614919176223/998932346201972867/5.png)
+![]()
+![]()
