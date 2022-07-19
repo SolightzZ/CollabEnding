@@ -16,9 +16,16 @@
 - สามารถเข้าร่วม Discord เพื่อรับข่าวสาร Collab Sever ได้
 ##
 
-แมพนี้ไม่ใช้เล่นอยู่แค่ทีมเดี่ยว เราเอาเหล่า ยูทูปเบอร์มายคราฟ เหล่าสายต่อสู้ เหล่าสายเล่นชิวๆ มาเล่นด้วยกันรวม 24 คน ถึงจะไม่เล่นทุกคนแต่ก็มีประวัติการ ออนไลน์เซิฟทุกคนแน่นอนคับ 
+- แมพนี้ไม่ใช้เล่นอยู่แค่ทีมเดี่ยว เราเอาเหล่า 
+- ยูทูปเบอร์มายคราฟ 
+- เหล่าสายต่อสู้ เหล่าสายเล่นชิวๆ 
+- มาเล่นด้วยกันรวม 24 คน ถึงจะไม่เล่นทุกคนแต่ก็มีประวัติการ 
+- ออนไลน์เซิฟทุกคนแน่นอนคับ 
 
 ##
+
 **Download now Map CollabServer 1.19.10**
+
 **File size 780.8 MB**
-[Map](https://drive.google.com/file/d/1GWXlllOmii6OFKTKxKBZf5UWuFPMenM7/view?usp=sharing)
+
+[Download now Map CollabServer 1.19.10](https://drive.google.com/file/d/1GWXlllOmii6OFKTKxKBZf5UWuFPMenM7/view?usp=sharing)
